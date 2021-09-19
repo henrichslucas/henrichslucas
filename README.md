@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Lucas!</h1>
-<h3 align="center">A Brazilian JavaScript addict</h3>
+<h1 align="center">Olá 👋, sou Lucas</h1>
+<h3 align="center">Um dev apaixonado por JavaScript 🧡</h3>
 
-- 🔭 I’m currently working on **improving my skills**
+- 🔭 Trabalhando atualmente em **melhorar minhas skills**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 Atualmente estudando **ReactJS**
 
-- 📫 How to reach me: **coding.henrichs@gmail.com**
+- 📫 Vamos conversar! **coding.henrichs@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Meus contatos:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lucas chagas henrichs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas chagas henrichs" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
