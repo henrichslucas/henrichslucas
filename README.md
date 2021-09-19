@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estudando **ReactJS**
 
-- 📫 Vamos conversar! **coding.henrichs@gmail.com**
+- 
 
 <h3 align="left">Meus contatos:</h3>
 <p align="left">
