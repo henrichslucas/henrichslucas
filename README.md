@@ -1,7 +1,6 @@
 <h1 align="center">Olá 👋, sou Lucas</h1>
-<h3 align="center">Um dev apaixonado por JavaScript 🧡</h3>
 
-- 🌱 Atualmente estudando **Javascript Vanilla**
+- 🌱 Atualmente estudando **Dart**
 
 <h3 align="left">Meus contatos:</h3>
 <p align="left">
