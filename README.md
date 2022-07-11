@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, sou Lucas</h1>
 
-- 🌱 Atualmente estudando **Dart**
+- 🌱 Atualmente estudando **Java**
 
 <h3 align="left">Meus contatos:</h3>
 <p align="left">
